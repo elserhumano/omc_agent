@@ -2,7 +2,7 @@
   "name": "elserhumano-omc_agent",
   "version": "0.1.0",
   "author": "elserhumano",
-  "summary": "Remove Oracle Cloud Management Agent",
+  "summary": "Puppet module for Oracle Cloud Management Agent",
   "license": "Apache-2.0",
   "source": "https://github.com/elserhumano/omc_agent",
   "project_page": "https://github.com/elserhumano/omc_agent",
