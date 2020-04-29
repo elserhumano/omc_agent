@@ -1,5 +1,5 @@
 # -----------------------------------------------------------------------------------
-# Description: Purpose stop and remove oci cloud agent
+# Description: Oracle Management Cloud Agent
 #
 # Reviewer: elserhumano@gmail.com
 #
